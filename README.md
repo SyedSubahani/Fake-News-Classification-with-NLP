@@ -15,6 +15,6 @@ Prediction on Client Data
 
 **Tech Stack Used**
 
-Python
-NLP
-Machine Learning Algorithms
+Python 
+NLP 
+Machine Learning Algorithms 
