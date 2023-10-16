@@ -1,9 +1,7 @@
 # Problem Statement:
-
 We consume news through several mediums throughout the day in our daily routine, but sometimes it becomes difficult to decide which one is fake and which one is authentic. Our job is to create a model which predicts whether a given news is real or fake.
 
 ## Project Flow:
-
 1. Problem Statement
 2. Data Gathering
 3. Data Preprocessing : Here we perform some operation on data A. Tokenization B. Lower Case C. Stopwords D. Lemmatization / Stemming
@@ -14,7 +12,6 @@ We consume news through several mediums throughout the day in our daily routine,
 8. Prediction on Client Data
 
 ## Tech Stack Used
-
-<p>Python</p>
-<p>NLP</p>
-<p>Machine Learning Algorithms</p>
+Python 
+NLP 
+Machine Learning Algorithms 
